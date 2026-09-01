@@ -3,7 +3,7 @@
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform: macOS M4](https://img.shields.io/badge/platform-macOS%20M4-lightgrey.svg)](https://www.apple.com/mac/)
+
 
 > **Masters Term Paper** — Agentic Retrieval-Augmented Topic Modeling for E-Commerce Product Reviews
 
