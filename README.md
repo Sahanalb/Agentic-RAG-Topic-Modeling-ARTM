@@ -142,7 +142,6 @@ python src/evaluation_framework.py
 |---|---|
 | Python | 3.11+ |
 | RAM | 8GB minimum, 16GB recommended |
-| GPU | Apple MPS (M1/M2/M3/M4) or CPU |
 | Storage | ~3GB (models + data) |
 | Time | ~25 min (M4 MPS) / ~60 min (CPU) |
 
