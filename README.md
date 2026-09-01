@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
-> **Masters Term Paper** — Agentic Retrieval-Augmented Topic Modeling for E-Commerce Product Reviews
+>Agentic Retrieval-Augmented Topic Modeling for E-Commerce Product Reviews
 
 ---
 
