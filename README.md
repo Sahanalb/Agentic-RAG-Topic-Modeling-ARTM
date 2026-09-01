@@ -62,13 +62,10 @@ artm-topic-modeling/
 │   
 │
 ├── outputs/
-│   ├── final_topics.txt               ← discovered topic labels
-│   ├── evaluation_results.json        ← quantitative metrics
-│   ├── baseline_results.json          ← baseline metrics
-│   
-│
-└── paper/
-    └── artm_paper.docx                ← full research paper
+    ├── final_topics.txt               ← discovered topic labels
+    ├── evaluation_results.json        ← quantitative metrics
+    ├── baseline_results.json          ← baseline metrics
+
 ```
 
 ---
